@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/polunwu/dev-gem
+  revision: ac950b5d07c5aa5fe1e0002e7c380b30b1ce1c0a
+  specs:
+    devcamp_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -236,6 +242,7 @@ DEPENDENCIES
   bootstrap (~> 4.5.0)
   byebug
   capybara (>= 2.15)
+  devcamp_view_tool!
   devise (~> 4.7, >= 4.7.1)
   friendly_id (~> 5.2.4)
   jbuilder (~> 2.7)
